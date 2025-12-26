@@ -1,2 +1,6 @@
-# .github
-Organization wide templates
+\# .github
+
+
+
+This repository contains organization-wide GitHub templates.
+
